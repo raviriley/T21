@@ -2,14 +2,8 @@ MacOS Textbook Installation Instructions
 
 1. Open Terminal
 
-2. Copy and paste the follwing into terminal:
+2. Copy and paste the following into Terminal, then press enter:
 
-cd Desktop
+cd Desktop && git clone https://github.com/gregneat/T21.git && cd T21 && chmod +x update.command
 
-3. Press Enter
-
-4. Copy and paste the follwing into terminal:
-
-git clone https://github.com/gregneat/T21.git
-
-5. Press Enter
+Done!
